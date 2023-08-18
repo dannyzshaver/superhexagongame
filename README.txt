@@ -1,4 +1,4 @@
-# Super Hexagon Inspired Game
+#Super Hexagon Inspired Game
 
 ## What is it?
 
