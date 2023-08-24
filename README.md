@@ -16,6 +16,13 @@ The player, controlled by the left and right arrow keys, or the left and right m
 rotates around the center hexagon, dodging the maze-like obstacles coming in from all sides.
 he goal is to survive as long as possible.
 
+## Gameplay
+### Below is gameplay from the beginning of the game, where the obstacles move slowly:
+![](https://github.com/dannyzshaver/superhexagongame/blob/main/beggif.gif)
+
+### As the game progresses, it becomes faster and more difficult:
+![](https://github.com/dannyzshaver/superhexagongame/blob/main/endgif.gif)
+
 ## How does it work?
 My game takes advantage of one of Northwestern University's basic student game engines,
 located in the .cs211 folder. All of the code is commented and explained, but I would read
