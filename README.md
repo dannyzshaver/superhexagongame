@@ -25,5 +25,9 @@ he goal is to survive as long as possible.
 
 ## How does it work?
 My game takes advantage of one of Northwestern University's basic student game engines,
-located in the .cs211 folder. All of the code is commented and explained, but I would read
-player.hxx before you read anything else.
+located in the .cs211 folder. All of the code is commented and explained, and I would read
+player.hxx to gain some insight on how the game is programmed at a fundamental level.
+
+## Contact me
+If you have any questions, or would like to know more about this remake of Super Hexagon, 
+feel free to reach out to me at dshaver@u.northwestern.edu!
