@@ -14,7 +14,7 @@ This remake has the same core gameplay mechanics.
 
 The player, controlled by the left and right arrow keys, or the left and right mouse buttons,
 rotates around the center hexagon, dodging the maze-like obstacles coming in from all sides.
-he goal is to survive as long as possible.
+The goal is to survive as long as possible.
 
 ## Gameplay
 ### Below is gameplay from the beginning of the game, where the obstacles move slowly:
